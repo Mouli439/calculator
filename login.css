@@ -1,0 +1,76 @@
+.login-card{
+   height: 100vh;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   
+}
+.form-ctn{
+    justify-content: center;
+    align-content: center;
+    box-shadow: 2px 3px 3px 3px rgb(216, 207, 207);
+    justify-content: center;
+    align-items: center;
+    border: 1px solid rgb(207, 207, 207);
+}
+.otp-btn{
+    width: 80%;
+    border-radius: 10px;
+    height: 45px;
+    background-color: rgb(239, 79, 95);
+    border: none;
+    color: white;
+    border: 1px solid rgb(207, 207, 207);
+}
+.email-btn{
+    width: 80%;
+    height: 45px;
+    border: 2px solid black;
+    justify-content: center;
+    align-content: center;
+    border: 1px solid rgb(207, 207, 207);
+    border-radius: 10px;
+    align-items: center;
+}
+.form-ctn{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+    width: 35%;
+    height: calc( 100vh - 35vh);
+    border-radius: 10px;
+    border: 1px solid rgb(207, 207, 207);
+    background-color: white;
+}
+.google-btn{
+    width: 80%;
+    height: 45px;
+    border: 2px solid black;
+    justify-content: center;
+    align-content: center;
+    
+    border-radius: 10px;
+    align-items: center;
+    border: 1px solid rgb(207, 207, 207);
+}
+.line{
+    border: 1px solid black;
+    width: 100%;
+}
+.create-acn{
+    color: red;
+}
+.ph-no{
+    width: 80%;
+    height: 45px;
+   border: 1px solid rgb(207, 207, 207);
+}
+body{
+    background-color: black;
+}
+.email-icon{
+    background-color: red;
+    color: white;
+ 
+}
